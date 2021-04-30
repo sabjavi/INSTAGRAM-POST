@@ -1,0 +1,120 @@
+body{
+background-color: black;
+
+}
+
+.encabezado{
+    
+    height: 70px;
+    width: 500px;
+}
+.titulos{
+    
+    float: left;
+    height: 50px;
+    width: 100px;
+    padding: 5px 5px;
+    margin:5px;
+    text-align: left;
+    line-height: 0.2; 
+ 
+}
+.puntos{
+   
+    float: right;
+    height: 50px;
+    width: 290px;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: right;
+
+}
+
+
+.container{
+    height: 700px;
+    width: 500px;
+    margin: 50px auto;
+    border-style: solid;
+    background-color: white;
+ 
+}
+.foto{
+    
+    height: 400px;
+    width: 500px;
+}
+
+
+.iconos{
+   
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+
+.inferior{
+   
+    height: 230px;
+    width: 500px;
+}
+.letra{
+    
+    height: 70px;
+    width: 500px;
+}
+.like{
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.comentar{
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.reenviar{
+    
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.guardar{
+  
+    height: 50px;
+    width: 50px;
+    float: right;
+    padding: 5px 5px;
+    margin:5px;
+    font-size: 50px;
+    text-align: center;
+}
+.descripcion{
+   
+    height: 155px;
+    width: 490px;
+    float: left;
+    margin:2px;
+}
